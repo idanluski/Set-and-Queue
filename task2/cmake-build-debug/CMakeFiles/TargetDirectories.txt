@@ -1,0 +1,3 @@
+C:/Users/luski/Desktop/c progrming/cpp/task2/cmake-build-debug/CMakeFiles/task2.dir
+C:/Users/luski/Desktop/c progrming/cpp/task2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/luski/Desktop/c progrming/cpp/task2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
