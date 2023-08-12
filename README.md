@@ -57,6 +57,8 @@ The user taps the action name Notes\
 turn\
 3 Exiting the program After tapping this, the system will print Goodbye! and exit\
 
+   <img width="145" alt="image" src="https://github.com/idanluski/Set-and-Queue/assets/129895992/9accfad9-7ba6-419a-8e0e-ef69e012f314">
+
 
 **(setMenu)** - when running this method, the program will create two sets (diplotives) and allow the user to perform
 Actions on them.\
@@ -68,14 +70,19 @@ The user taps the action name Notes\
 5 Showing the union of the sets\
 6 Exit Exit this menu and return to the main menu\
 
+<img width="178" alt="image" src="https://github.com/idanluski/Set-and-Queue/assets/129895992/fea6e1f3-2e81-4715-b6c9-2af6bfc3ab6a">
+
 
 **()queueMenu** - When running this method the program will let the user choose the size of the queue.\
 The user will then be able to perform actions on the queue.\
 the main -\
 Creates a menu type object and runs the "main menu" method and that's it.\
+<img width="231" alt="image" src="https://github.com/idanluski/Set-and-Queue/assets/129895992/cf5227a2-f04d-4935-9bfd-dbd8edb4151f">
 
 1 Print the queue\
 2 Adding a member to the queue\
 3 Removing a member from the queue\
 4 Print the first element in the queue\
 5 Exiting the program Exiting this menu and returning to the main menu\
+
+<img width="194" alt="image" src="https://github.com/idanluski/Set-and-Queue/assets/129895992/c28923c9-33ef-4aa0-8c31-fe7ffb254132">
